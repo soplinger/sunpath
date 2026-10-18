@@ -1,0 +1,6 @@
+# azimuth_start, azimuth_end, obstacle_elevation_deg
+# ranges are clockwise from north and may wrap through north (330, 30)
+0, 90, 4
+90, 180, 0
+180, 270, 12
+330, 30, 8

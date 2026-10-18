@@ -1,0 +1,5 @@
+# name, latitude, longitude, utc_offset_hours
+Cottage North, 51.5074, -0.1278, 0
+Harbour Studio, 59.9139, 10.7522, 1
+Desert Lab, 33.4484, -112.0740, -7
+Equator Camp, 0.0, 36.8219, 3
